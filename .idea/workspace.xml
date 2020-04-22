@@ -1,7 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec205995-f410-4fd3-817b-5ec8237c5656" name="Default Changelist" comment="" />
+    <list default="true" id="ec205995-f410-4fd3-817b-5ec8237c5656" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/e/0e159906e734a09833f1bea7dab0ea435f127bee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/167e8013ab4b6c11168cfbba9a540279506e650c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/262afe8eb62f955320f10af5687712f9f9415048" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/2726137c932fba17b5d846d0ae8201d3fd651f5c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/35f22b13041489203882aba72494367d74b4226c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/3/43e6a07c28a75e4741324550145d5ffaba71c6b4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4fa9bb3ea98d1c907482ae8e79456b7de54a320b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/5408dc0a91325131dd5cc859fc81f126470f161e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/576c372edaaf50b52255e6fbfd1c3430d65e77a3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/6917479bab1fc0d496d3a996f0144f2692d4cda6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/a/6a1adf8be0db8813140d8913a5233cd9bfa0375a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/8/8807d801180a3c253888502cdff44afab56f3ceb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec0edd76a1f8793c34cae82a5c0984311612e57" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/9/998d3b58b4a4d0bbd46b14c8375332ee3cf3cd89" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/3/a32f51d1d963f9d0bcbb0ca658b5df5e9af55bb8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/f/bf2c674dde75a5466900c49c9f04da7e4ad9bf04" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c6a3a496be9cd331eb3373c54a97b3a63185c4cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/db38b7aae3de3de04b970a9f19db4c7b3c0a3e9c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/dbbe519a75f03cd8142cbf8dedc8e7018c961c25" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/f/df456381f4e3ff9d11ac9d3b9053f4bea55435d3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e009d8090f37cb69723c055d5b6bc9037ff70509" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e2d11e2cd6a0af4d009b9308fbb969beb856ec90" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e44aab23d35c0dbf63aa35517480b9ec72d9c511" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssertJ.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hamcrest.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUnit.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestYazma.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/unittest/Calculations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/unittest/assertj/Gift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/unittest/customer/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/unittest/customer/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/unittest/customer/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/unittest/customer/NotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/unittest/customer/exception/MailServerUnavaibleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/assertj/CustomAssertTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/assertj/CustomerAssert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/assertj/CustomerFileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/assertj/CustomerListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/assertj/CustomerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/assertj/LombokTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/hamcrest/HamcrestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/junit/AssertTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/junit/EasyParameterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/junit/ExceptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/junit/IgnoreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/junit/LifeCycleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/junit/ParameterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/junit/SuiteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/unittest/CalculationsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/unittest/customer/CustomerRepositoryStup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/unittest/customer/CustomerServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/unit-test.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/unittest/Calculations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/unittest/assertj/Gift$GiftBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/unittest/assertj/Gift.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/unittest/customer/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/unittest/customer/CustomerRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/unittest/customer/CustomerService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/unittest/customer/NotificationService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/unittest/customer/exception/MailServerUnavaibleException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/unit-test.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/assertj/CustomAssertTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/assertj/CustomerAssert.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/assertj/CustomerFileTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/assertj/CustomerListTest$Item.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/assertj/CustomerListTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/assertj/CustomerTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/assertj/CustomerTest$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/assertj/CustomerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/assertj/LombokTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/hamcrest/HamcrestTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/junit/AssertTest$Dummy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/junit/AssertTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/junit/EasyParameterTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/junit/ExceptionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/junit/IgnoreTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/junit/LifeCycleTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/junit/ParameterTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/junit/SuiteTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/unittest/CalculationsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/unittest/customer/CustomerRepositoryStup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/unittest/customer/CustomerServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-test.iml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,86 +110,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/assertj/CustomerAssert.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/jre/lib/rt.jar!/java/util/Collection.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-287">
-              <folding>
-                <element signature="e#0#1441#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/assertj/CustomerListTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="107" column="21" selection-start-line="107" selection-start-column="21" selection-end-line="107" selection-end-column="21" />
-              <folding>
-                <element signature="e#6283#6284#0" expanded="true" />
-                <element signature="e#6351#6352#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/util/List.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="109" lean-forward="true" selection-start-line="109" selection-end-line="109" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/util/Collection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2649">
-              <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/assertj/CustomAssertTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-350">
-              <caret line="10" column="21" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -111,6 +125,9 @@
     <findStrings>
       <find>List</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -182,6 +199,7 @@
     <option name="width" value="1080" />
     <option name="height" value="637" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -278,6 +296,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -430,7 +449,7 @@
       <option name="presentableId" value="Default" />
       <updated>1587209484097</updated>
       <workItem from="1587209487226" duration="18769000" />
-      <workItem from="1587385662738" duration="9897000" />
+      <workItem from="1587385662738" duration="10144000" />
     </task>
     <servers />
   </component>
@@ -467,13 +486,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28666000" />
+    <option name="totallyTimeSpent" value="28913000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="824" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8560158" visible="true" weight="0.25679544" />
-      <window_info id="Structure" order="1" sideWeight="0.14398421" side_tool="true" visible="true" weight="0.25679544" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.85132384" visible="true" weight="0.25679544" />
+      <window_info id="Structure" order="1" sideWeight="0.14867617" side_tool="true" visible="true" weight="0.25679544" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -482,11 +501,11 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32786885" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.30737704" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.47814208" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.329235" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3920765" />
