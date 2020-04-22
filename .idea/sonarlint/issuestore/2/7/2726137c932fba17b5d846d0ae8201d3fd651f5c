@@ -1,0 +1,14 @@
+
+‰
+java:S11300"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(Í‰¡„8“˜…˜™.
+ˆ
+java:S1130%"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÑÇác8İ½í—™.
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Š³µÓùÿÿÿÿ8¯Ô—™.
+
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(Š³µÓùÿÿÿÿ8¯Ô—™.
+]
+java:S1193"@Replace the usage of the "instanceof" operator by a catch block.(ï¥©î8—­Ò—™.
+a	java:S112%"FDefine and throw a dedicated exception instead of using a generic one.(ÑÇác8“ñå—™.
+b	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(Í‰¡„8ø§ı—™.
+u
+java:S1192"SDefine a constant instead of duplicating this literal "email sender error" 3 times.(áÙÕïùÿÿÿÿ8È’ˆ˜™.

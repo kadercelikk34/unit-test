@@ -1,0 +1,18 @@
+
+L
+java:S1481"*Remove this unused "text2" local variable.(¼ı¤„ûÿÿÿÿ8’¹†»™.
+h
+java:S1192"FDefine a constant instead of duplicating this literal "Baris" 3 times.(Üİ¨Ñşÿÿÿÿ8¹¯—»™.
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Õ÷ñ¯üÿÿÿÿ8Şª²»™.
+i
+java:S1192"GDefine a constant instead of duplicating this literal "Ankara" 3 times.(¦õŒüÿÿÿÿ8µòÚ»™.
+
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(Õ÷ñ¯üÿÿÿÿ8ÖÔÓ»™.
+
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ö‰úÍùÿÿÿÿ8£ñ¯»™.
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ö‰úÍùÿÿÿÿ8£ñ¯»™.
+[
+java:S1854"9Remove this useless assignment to local variable "text2".(¼ı¤„ûÿÿÿÿ8’¹†»™.
+]	java:S125&"<This block of commented-out lines of code should be removed.(óÄ­ãùÿÿÿÿ8ÇÌ»™.
+k
+java:S1192"IDefine a constant instead of duplicating this literal "Istanbul" 5 times.(¦õŒüÿÿÿÿ8£Á»™.

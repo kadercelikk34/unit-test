@@ -1,0 +1,6 @@
+
+U
+java:S1854	"8Remove this useless assignment to local variable "gift".(Ì†ÊÀ8Œ‰¼™.
+F
+java:S1481	")Remove this unused "gift" local variable.(Ì†ÊÀ8Œ‰¼™.
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÙğÌ8¼¢ˆ¼™.

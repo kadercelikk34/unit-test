@@ -1,0 +1,10 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(ùô¢ì8ğÄ‰–™.
+X	java:S1259"<This block of commented-out lines of code should be removed.(ÜÑã8“¥÷•™.
+X	java:S125"<This block of commented-out lines of code should be removed.(ßåÙÊ8®²—˜™.
+X	java:S125"<This block of commented-out lines of code should be removed.(œøóÇ8Ò–˜™.
+g	java:S112
+"FDefine and throw a dedicated exception instead of using a generic one.(ÒˆÃ¯ùÿÿÿÿ8Î•™.
+
+java:S1130
+"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÒˆÃ¯ùÿÿÿÿ8Æí¬–™.
